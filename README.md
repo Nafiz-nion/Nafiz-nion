@@ -4,11 +4,13 @@
 
 <div align="center" style="font-family: 'Courier New', Courier, monospace; color: #0e75b6; background: #f5f7fa; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
   <pre style="font-size: 14px; line-height: 1.4em; color: #0d6efd;">
-<span style="color: #dc3545;"> _   _                 __  __       _                                   _ </span>
-<span style="color: #28a745;">| \ | | ___   ___  _ _|  \/  | ___ | |__   __ _ _ __ ___  _ __ ___   __ _ __| |</span>
-<span style="color: #fd7e14;">|  \| |/ _ \ / _ \| '__| |\/| |/ _ \| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _` / _` |</span>
-<span style="color: #20c997;">| |\  | (_) | (_) | |  | |  | | (_) | | | | (_| | | | | | | | | | | | (_| \__,_|</span>
-<span style="color: #6f42c1;">|_| \_|\___/ \___/|_|  |_|  |_|\___/|_| |_|\__,_|_| |_| |_|_| |_| |_|\__,_\__,_|</span>
+<span style="color: #dc3545;"> 
+███╗░░██╗░█████╗░███████╗██╗███████╗
+████╗░██║██╔══██╗██╔════╝██║╚════██║
+██╔██╗██║███████║█████╗░░██║░░███╔═╝
+██║╚████║██╔══██║██╔══╝░░██║██╔══╝░░
+██║░╚███║██║░░██║██║░░░░░██║███████╗
+╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚══════╝ </span>
   </pre>
 
   <h2 style="margin-top: 20px;">
