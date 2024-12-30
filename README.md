@@ -22,7 +22,7 @@
 
 ## 🌐 About Me
 
-Hi! I'm Noor Mohammad, a passionate **Software Engineer** specializing in modern web development technologies. My expertise lies in building dynamic, responsive, and scalable applications. I have a keen interest in the **MERN stack**, **React**, **React Native** and **Next.js**, and I'm always eager to explore new tools and technologies.
+Hi! I'm Nafiz, a passionate **Software Engineer** specializing in modern web development technologies. My expertise lies in building dynamic, responsive, and scalable applications. I have a keen interest in the **MERN stack**, **React**, **React Native** and **Next.js**, and I'm always eager to explore new tools and technologies.
 
 ### Portfolio
 🔗 [Check out my portfolio](https://noormohammad.reactbd.com/)
