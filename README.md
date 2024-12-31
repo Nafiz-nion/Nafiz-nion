@@ -19,6 +19,22 @@
   </h2>
 </div>
 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Nafiz+Here+🤙;𝙸t'𝚜+not+just+a+name+bro!+🥱;𝙸t'𝚜+a+brand+🔥;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friends+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
+
+
+
+![P4RVEJ](https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif)
+
+
+![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
+
+
+- ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
+
+
+
 ---
 
 ## 🌐 About Me
@@ -98,18 +114,6 @@ app.listen(5000, () => console.log('Server running on port 5000'));
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Nafiz+Here+🤙;𝙸𝚃'𝚜+not+just+a+name+bro!+🥱;𝙸𝚃'𝚜+a+brand+🔥;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friends+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
-
-
-
-![P4RVEJ](https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif)
-
-
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
-
-
-- ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
 
 ###​ ​⚙️ ​&nbsp;​ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
   
