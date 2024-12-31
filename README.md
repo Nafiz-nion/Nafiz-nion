@@ -19,6 +19,8 @@
   </h2>
 </div>
 
+![P4RVEJ](https://avatars.githubusercontent.com/u/119662047?v=4)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Nafiz+Here+🤙;𝙸t'𝚜+not+just+a+name+bro!+🥱;𝙸t'𝚜+a+brand+🔥;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friends+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
 
 
