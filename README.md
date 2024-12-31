@@ -99,6 +99,19 @@ app.listen(5000, () => console.log('Server running on port 5000'));
 
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+DH+ALAMIN+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+DH+ALAMIN+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
+
+![P4RVEJ](https://avatars.githubusercontent.com/u/107547154?v=4)
+
+
+![P4RVEJ](https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif)
+
+
+![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
+
+
+- ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
+
 ###​ ​⚙️ ​&nbsp;​ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
   
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)​&nbsp;
